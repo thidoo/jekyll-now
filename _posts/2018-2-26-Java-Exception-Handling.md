@@ -1,3 +1,5 @@
+This is an introductory blog to Exception Handling in Java. If you are new to exceptions or just want to refresh on some core concepts, then please continue reading!
+
 ## 3 TYPES OF EXCEPTIONS
 
 1. **Checked exceptions** - exceptions that occur at compile time
