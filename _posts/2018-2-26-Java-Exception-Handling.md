@@ -1,5 +1,3 @@
-#EXCEPTIONS IN JAVA
-
 ## 3 TYPES OF EXCEPTIONS
 
 1. **Checked exceptions** - exceptions that occur at compile time
@@ -36,7 +34,7 @@
 	* If you want to write a runtime exception, you need to extend the **RuntimeException** class.
 
 	
-##References
+## References
 
-[Java - Exceptions (from tutorialspoint)] (https://www.tutorialspoint.com/java/java_exceptions.htm)
+[Java - Exceptions] (https://www.tutorialspoint.com/java/java_exceptions.htm)
 
