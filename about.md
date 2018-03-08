@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome!
 
-### More Information
+My name is Thi (pronounced like "T") and I'm a graduate developer at MYOB. 
+This blog is a journal into my life as a graduate developer as well as a collection of computing topics I find valuable and interesting. 
 
-A place to include any other types of information that you'd like to include about yourself.
+Enjoy! And feel free to ask me any questions you like :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thi.do@myob.com](mailto:thi.do@myob.com)
