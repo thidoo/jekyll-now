@@ -146,6 +146,7 @@ List<String> result = list.stream().map(word -> word.toLowerCase()).collect(Coll
 ```
 
 --------
+
 ###REFERENCES
 
 1. [Processing Data with Java SE 8 Streams, Part 1] (http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
