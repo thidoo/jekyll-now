@@ -1,5 +1,3 @@
-## Java 8 Streams
-
 ## WHY `Stream`
 
 **Some issues with processing collections in Java:**
