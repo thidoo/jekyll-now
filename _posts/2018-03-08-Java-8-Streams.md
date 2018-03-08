@@ -149,9 +149,9 @@ List<String> result = list.stream().map(word -> word.toLowerCase()).collect(Coll
 
 **REFERENCES**
 
-1. [Processing Data with Java SE 8 Streams, Part 1] (http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
-2. [Introduction to Java 8] (http://www.baeldung.com/java-8-streams-introduction)
-3. [Java 8 Streams: An Intro to Filter, Map and Reduce Operations] (https://www.sitepoint.com/java-8-streams-filter-map-reduce/)
+1. [Processing Data with Java SE 8 Streams, Part 1](http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
+2. [Introduction to Java 8](http://www.baeldung.com/java-8-streams-introduction)
+3. [Java 8 Streams: An Intro to Filter, Map and Reduce Operations](https://www.sitepoint.com/java-8-streams-filter-map-reduce/)
 
 
 
