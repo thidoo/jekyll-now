@@ -120,7 +120,7 @@ boolean isEven = numbers.stream().allMatch(n -> n % 2 == 0);
 	* by applying a function to them 
 	* and collect the resulting new elements into a `Stream`
 
-``` java
+``` 
 List<Integer> numbers = Arrays.asList(1, 2, 3);
 Stream<Integer> stream = numbers.stream().map(n -> n*2);
 ``` 
@@ -131,7 +131,7 @@ Stream<Integer> stream = numbers.stream().map(n -> n*2);
 	* First parameter: an identity element (e.g. 0 for addition, 1 for multiplication)
 	* Second parameter: an accumulator function
 
-```java
+```
 List<Integer> numbers = Arrays.asList(1, 2, 3);
 Integer sum = numbers.stream().reduce(0, (a,b) -> a+b)
 ```
@@ -141,13 +141,13 @@ Integer sum = numbers.stream().reduce(0, (a,b) -> a+b)
 * Use `collect()` method to convert a stream to a `Collection` or a `Map`
 * Utility class `Collectors` - provide a solution for almost all typical collecting operations.
 
-```java
+```
 List<String> result = list.stream().map(word -> word.toLowerCase()).collect(Collectors.toList());
 ```
 
 --------
 
-###REFERENCES
+**REFERENCES**
 
 1. [Processing Data with Java SE 8 Streams, Part 1] (http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
 2. [Introduction to Java 8] (http://www.baeldung.com/java-8-streams-introduction)
