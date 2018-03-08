@@ -1,5 +1,5 @@
+--------
 ## WHY `Stream`
--------
 
 **Some issues with processing collections in Java:**
 
@@ -37,8 +37,8 @@ Two fundamental characteristics of stream operations:
 * Collection - in memory data structure, every element has to be computed before it can be added to the collection
 * Stream - 'conceptually' fixed data structure, elements are computed on demand
 
-## Stream Creation
 --------
+## Stream Creation
 
 * USE `stream()` or `of()` methods:
 
@@ -73,8 +73,8 @@ Stream<String> stream = Stream.generate(() -> "Hello World!").limit(10);
 ```
 There are other ways of generate a stream in Java 8, but those are the common ways. 
 
-## Some Stream Operations:
 ---------
+## Some Stream Operations:
 
 **Two main categories:**
 
