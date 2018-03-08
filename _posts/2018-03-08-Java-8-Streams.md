@@ -18,9 +18,6 @@
 		* *source*: a data-providing source such as collections, arrays or I/O resources
 		* *aggregrate operations*: SQL-like operations and common operations from functional programming languages, such as `filter`, `map`, `reduce`, `find`, `match`, `sorted`, etc.
 
-* `stream()` 
-* `parallel stream()` -- the Streams API will internally decompose your query to leverage the multiple scores on your computer
-
 **Stream operations vs collection operations**
 
 Two fundamental characteristics of stream operations:
