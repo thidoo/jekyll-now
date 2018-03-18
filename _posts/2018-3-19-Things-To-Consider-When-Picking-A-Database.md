@@ -1,6 +1,6 @@
 If you are trying to decide what kind of database to pick for your project, the following principles and theorems would be beneficial to help you make that decision.
 
-##ACID
+## ACID
 
 * Is a set of properties of **database transactions** intended to guarantee validity even in the event of errors
 
