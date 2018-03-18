@@ -1,5 +1,7 @@
 ##How do JDBC, JPA and Hibernate fit into SpringBoot
 
+-------
+
 So now that you've got your SpringBoot application set up, and you want to be able to interact with your relational database of choice, how would you go about that? This is where JDBC, JPA and Hibernate come in. 
 
 ![SpringJPAHibernateDiagram](https://github.com/thidoo/thidoo.github.io/blob/master/images/SpringJPAHibernate.jpg)
@@ -14,8 +16,8 @@ Let's explore the concepts on the above diagram
 	
 	```
 	spring.datasource.url=jdbc:postgresql://localhost:5432/your_dbname
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+	spring.datasource.username=your_username
+	spring.datasource.password=your_password
 	```
 
 **Object Relational Mapping**
