@@ -1,4 +1,4 @@
-##SQL Basics (link)[http://www.sqlcourse.com/select.html]
+## SQL Basics
 
 * Structured Query Language
 * Used to communicate with a database
@@ -113,3 +113,9 @@ SQL commands can be divided into four subgroups:
 	* COMMIT
 	* ROLLBACK
 	* SAVEPOINT
+	
+-----
+
+**To learn more basic SQL queries:**
+
+* Visit this (link)[http://www.sqlcourse.com/select.html]
