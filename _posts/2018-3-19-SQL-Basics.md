@@ -1,7 +1,6 @@
-## SQL Basics
 
-* Structured Query Language
-* Used to communicate with a database
+* SQL stands for Structured Query Language
+* It is used to communicate with a database
 
 **Table Basics**
 
