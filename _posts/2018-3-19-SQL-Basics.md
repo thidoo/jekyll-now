@@ -86,7 +86,7 @@ update phone_book
 ```
 
 ----
-###DDL, DML, DCL and TCL
+### DDL, DML, DCL and TCL
 
 SQL commands can be divided into four subgroups:
 
