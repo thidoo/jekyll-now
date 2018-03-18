@@ -1,5 +1,5 @@
---------
-## WHY `Stream`
+
+So what is the deal with the new Java 8 feature `Stream`?
 
 **Some issues with processing collections in Java:**
 
