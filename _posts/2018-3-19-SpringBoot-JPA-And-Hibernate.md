@@ -1,10 +1,10 @@
-##How do JDBC, JPA and Hibernate fit into SpringBoot
+**How do JDBC, JPA and Hibernate fit into SpringBoot**
 
 -------
 
 So now that you've got your SpringBoot application set up, and you want to be able to interact with your relational database of choice, how would you go about that? This is where JDBC, JPA and Hibernate come in. 
 
-![SpringJPAHibernateDiagram](https://github.com/thidoo/thidoo.github.io/blob/master/images/SpringJPAHibernate.jpg)
+![SpringJPAHibernateDiagram]({{"/images/SpringJPAHibernate.jpg"|absolute.url}})
 
 Let's explore the concepts on the above diagram
 
@@ -92,11 +92,11 @@ JPA allows for the **mapping** between objects in your Java application to table
 
 Hopefully, this post has helped you get a better understanding of the different components that come into play between your SpringBoot application and your relational database. Below is that diagram again to help you visualise where they stand.
 
-![SpringJPAHibernateDiagram](https://github.com/thidoo/thidoo.github.io/blob/master/images/SpringJPAHibernate.jpg)
+![SpringJPAHibernateDiagram]({{"/images/SpringJPAHibernate.jpg"|absolute.url}})
 
 -----
 
-##REFERENCES
+**REFERENCES**
 
 * [Integrating Hibernate and JPA with SpringBoot](http://www.springboottutorial.com/hibernate-jpa-tutorial-with-spring-boot-starter-jpa)
 * [Java Database Connectivity](https://en.wikipedia.org/wiki/Java_Database_Connectivity)
