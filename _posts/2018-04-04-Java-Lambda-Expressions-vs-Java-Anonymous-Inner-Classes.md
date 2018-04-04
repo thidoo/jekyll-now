@@ -1,4 +1,3 @@
-## JAVA LAMBDA EXPRESSIONS vs. JAVA ANONYMOUS INNER CLASS
 
 Java 8 introduced a new functional feature which is the Lambda expression. Read on to learn more about what it is and how it works. 
 
