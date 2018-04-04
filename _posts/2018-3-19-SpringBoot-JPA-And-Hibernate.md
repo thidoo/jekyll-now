@@ -1,6 +1,3 @@
-**How do JDBC, JPA and Hibernate fit into SpringBoot**
-
--------
 
 So now that you've got your SpringBoot application set up, and you want to be able to interact with your relational database of choice, how would you go about that? This is where JDBC, JPA and Hibernate come in. 
 

@@ -1,7 +1,6 @@
-##SQL Basics (link)[http://www.sqlcourse.com/select.html]
 
-* Structured Query Language
-* Used to communicate with a database
+* SQL stands for Structured Query Language
+* It is used to communicate with a database
 
 **Table Basics**
 
@@ -86,7 +85,7 @@ update phone_book
 ```
 
 ----
-###DDL, DML, DCL and TCL
+### DDL, DML, DCL and TCL
 
 SQL commands can be divided into four subgroups:
 
@@ -113,3 +112,9 @@ SQL commands can be divided into four subgroups:
 	* COMMIT
 	* ROLLBACK
 	* SAVEPOINT
+	
+-----
+
+**To learn more basic SQL queries:**
+
+* Visit this (link)[http://www.sqlcourse.com/select.html]
