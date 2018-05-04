@@ -48,7 +48,7 @@ Overall, the takeaway I got for this talk was that JHipster could save you a lot
 
 This was one of my favourite talks from the day, not merely because of the contents that were presented, but more because of the energy these two talented and passionate speakers brought to the room. I was very inspired after this talk to work harder to master my craft after seeing the way the two talked about code and life. 
 
-Josh has a [blog]("joshlong.com") that I'm now following. I would recommend you guys check it out to see what he's like as a person and a developer, and learn more about different computing topics. 
+Josh has a [blog]("http://joshlong.com/") that I'm now following. I would recommend you guys check it out to see what he's like as a person and a developer, and learn more about different computing topics. 
 
 Josh started the presentation by quickly creating a SpringBoot application with very funny and interesting side comments along the way about code and stars and the universe.. and showed us some very cool ASCII arts he's created as well. 
 
