@@ -48,7 +48,7 @@ Overall, the takeaway I got for this talk was that JHipster could save you a lot
 
 This was one of my favourite talks from the day, not merely because of the contents that were presented, but more because of the energy these two talented and passionate speakers brought to the room. I was very inspired after this talk to work harder to master my craft after seeing the way the two talked about code and life. 
 
-Josh has a [blog]("www.joshlong.com") that I'm now following. I would recommend you guys check it out to see what he's like as a person and a developer, and learn more about different computing topics. 
+Josh has a [blog]("joshlong.com") that I'm now following. I would recommend you guys check it out to see what he's like as a person and a developer, and learn more about different computing topics. 
 
 Josh started the presentation by quickly creating a SpringBoot application with very funny and interesting side comments along the way about code and stars and the universe.. and showed us some very cool ASCII arts he's created as well. 
 
@@ -98,7 +98,7 @@ To fully understand what Sven is suggesting to fix some problems that Java curre
 
 ### 5. Aggressive Web Apps - by Phil Nash @philnash from [twilio](www.twilio.com)
 
-In this talk, Phil was very excited about the fact that all browsers have not supported **Service Worker** as of this week (except for Internet Explorer of course). A service worker is a script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction. He went through a demo to show us how to add a push notification and notification permission to a web app. 
+In this talk, Phil was very excited about the fact that all browsers have now supported **Service Worker** as of this week (except for Internet Explorer of course). A service worker is a script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction. He went through a demo to show us how to add a push notification and notification permission to a web app. 
 
 The remainder of the talk was more about how it's detrimental to the web that most people are boycotting web push notifications. He argued that notifications can be useful, when they are timely, actionable and personal. People don't want all kinds of notifications, but the right notifcations can be of great use to people and businesses. 
 
